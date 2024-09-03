@@ -8,8 +8,8 @@ before running this:
 
 > **How the code actually working**
 1) we are using 2 main modules in this code, (random and time)
-2) From time modeule we are getting current second for seeding in random
-3) random module is used to select any random person from withing the names you've provided
+2) From time module we are getting current second for seeding in random
+3) random module is used to select any random person from within the names you've provided
 
 > **How to run the code**
 1) You have to provide names of your friends comma seperated
